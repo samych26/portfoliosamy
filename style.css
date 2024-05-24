@@ -489,3 +489,10 @@ input[type="submit"] {
     max-width: 600px;
   }
 }
+
+/* FOOTER SECTION */
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+  margin-top: 40px;
+}
